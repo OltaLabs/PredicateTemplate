@@ -1,0 +1,19 @@
+{
+  "name": "typescript_interactions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "esrun index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "esrun": "^3.2.26",
+    "fuels": "^0.94.3"
+  }
+}
