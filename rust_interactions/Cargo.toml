@@ -1,0 +1,8 @@
+[package]
+name = "rust_interactions"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fuels = { git = "https://github.com/FuelLabs/fuels-rs.git" }
+tokio = { version = "1.12", features = ["rt", "macros"] }
